@@ -1,16 +1,32 @@
-### Hi there 👋
+### Seja bem vindo
+<hr>
+Antes de mais nada! pegue um café  ☕ <br>
 
-<!--
-**miguelsenne/miguelsenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Fique à vontade para conhecer meus repositórios</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/rahzuks/taskManager"><b>Task Manager</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/miguelsenne/taskManager?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/miguelsenne/taskManager?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/miguelsenne/taskManager?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/miguelsenne/taskManager?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<div>
+  <a href="https://github.com/rahzuks">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahzuks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
